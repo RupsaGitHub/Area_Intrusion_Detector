@@ -2,7 +2,7 @@
 This is an electronics hardware project that is capable of detecting itruders in a designated area
 A compact and effective Area Intrusion Detection System built using an Arduino board, laser module, and LDR (Light Dependent Resistor). This system is designed to detect unauthorized movement across a secured line by monitoring the interruption of a laser beam.
 
-🔧 How It Works
+>> How It Works
 The laser beam is continuously aimed at an LDR sensor. When an object or person interrupts the beam (i.e., blocks the light reaching the LDR), the Arduino detects the change in light intensity and triggers an alarm or LED to indicate an intrusion.
 
 >> Features

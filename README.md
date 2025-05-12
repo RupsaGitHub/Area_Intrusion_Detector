@@ -7,13 +7,9 @@ The laser beam is continuously aimed at an LDR sensor. When an object or person 
 
 >> Features
 > Simple yet effective intrusion detection
-
 > Real-time response using laser beam interruption
-
 > Visual or audible alert system (e.g., LED, buzzer)
-
 > Low-cost and beginner-friendly setup
-
 > Can be scaled for larger perimeter security with multiple modules
 
 >> Hardware Components
@@ -40,9 +36,6 @@ Set up the hardware as per the circuit diagram
 Upload the provided code using the Arduino IDE
 Align the laser with the LDR
 Test by interrupting the beam and observing the alarm
-
->> Circuit Diagram
-(Include a diagram here if available)
 
 >> Future Enhancements
 Multiple beam setup for wider coverage
